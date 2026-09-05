@@ -1,7 +1,7 @@
 [
  {
   "id": "rumor_azimut",
-  "when": "2026-09-04 13:00",
+  "when": "2026-09-05 21:34",
   "done": false,
   "mp4": "reels/rumor_azimut.mp4",
   "cover": "reels/rumor_azimut.jpg",
@@ -9,7 +9,7 @@
  },
  {
   "id": "retro_volga",
-  "when": "2026-09-04 16:00",
+  "when": "2026-09-05 21:37",
   "done": false,
   "mp4": "reels/retro_volga.mp4",
   "cover": "reels/retro_volga.jpg",
@@ -17,7 +17,7 @@
  },
  {
   "id": "retro2_moskvich",
-  "when": "2026-09-04 19:00",
+  "when": "2026-09-05 21:40",
   "done": false,
   "mp4": "reels/retro2_moskvich.mp4",
   "cover": "reels/retro2_moskvich.jpg",
@@ -25,7 +25,7 @@
  },
  {
   "id": "news_granta",
-  "when": "2026-09-04 21:30",
+  "when": "2026-09-06 10:00",
   "done": false,
   "mp4": "reels/news_granta.mp4",
   "cover": "reels/news_granta.jpg",
@@ -33,7 +33,7 @@
  },
  {
   "id": "retro2_chaika",
-  "when": "2026-09-05 10:00",
+  "when": "2026-09-06 13:00",
   "done": false,
   "mp4": "reels/retro2_chaika.mp4",
   "cover": "reels/retro2_chaika.jpg",
@@ -41,7 +41,7 @@
  },
  {
   "id": "retro2_luaz",
-  "when": "2026-09-05 13:00",
+  "when": "2026-09-06 16:00",
   "done": false,
   "mp4": "reels/retro2_luaz.mp4",
   "cover": "reels/retro2_luaz.jpg",
@@ -49,7 +49,7 @@
  },
  {
   "id": "diag_shiny",
-  "when": "2026-09-05 16:00",
+  "when": "2026-09-06 19:00",
   "done": false,
   "mp4": "reels/diag_shiny.mp4",
   "cover": "reels/diag_shiny.jpg",
@@ -57,7 +57,7 @@
  },
  {
   "id": "retro2_zil",
-  "when": "2026-09-05 19:00",
+  "when": "2026-09-06 21:30",
   "done": false,
   "mp4": "reels/retro2_zil.mp4",
   "cover": "reels/retro2_zil.jpg",
@@ -65,7 +65,7 @@
  },
  {
   "id": "retro4_reka",
-  "when": "2026-09-05 21:30",
+  "when": "2026-09-07 10:00",
   "done": false,
   "mp4": "reels/retro4_reka.mp4",
   "cover": "reels/retro4_reka.jpg",
@@ -73,7 +73,7 @@
  },
  {
   "id": "news_voyah",
-  "when": "2026-09-06 10:00",
+  "when": "2026-09-07 13:00",
   "done": false,
   "mp4": "reels/news_voyah.mp4",
   "cover": "reels/news_voyah.jpg",
@@ -81,7 +81,7 @@
  },
  {
   "id": "retro4_invalidka",
-  "when": "2026-09-06 13:00",
+  "when": "2026-09-07 16:00",
   "done": false,
   "mp4": "reels/retro4_invalidka.mp4",
   "cover": "reels/retro4_invalidka.jpg",
@@ -89,7 +89,7 @@
  },
  {
   "id": "retro4_jolion",
-  "when": "2026-09-06 16:00",
+  "when": "2026-09-07 19:00",
   "done": false,
   "mp4": "reels/retro4_jolion.mp4",
   "cover": "reels/retro4_jolion.jpg",
@@ -97,7 +97,7 @@
  },
  {
   "id": "rumor_zavody",
-  "when": "2026-09-06 19:00",
+  "when": "2026-09-07 21:30",
   "done": false,
   "mp4": "reels/rumor_zavody.mp4",
   "cover": "reels/rumor_zavody.jpg",
@@ -105,7 +105,7 @@
  },
  {
   "id": "retro4_tiggo",
-  "when": "2026-09-06 21:30",
+  "when": "2026-09-08 10:00",
   "done": false,
   "mp4": "reels/retro4_tiggo.mp4",
   "cover": "reels/retro4_tiggo.jpg",
@@ -113,7 +113,7 @@
  },
  {
   "id": "retro4_zaz",
-  "when": "2026-09-07 10:00",
+  "when": "2026-09-08 13:00",
   "done": false,
   "mp4": "reels/retro4_zaz.mp4",
   "cover": "reels/retro4_zaz.jpg",
@@ -121,7 +121,7 @@
  },
  {
   "id": "diag_podshipnik",
-  "when": "2026-09-07 13:00",
+  "when": "2026-09-08 16:00",
   "done": false,
   "mp4": "reels/diag_podshipnik.mp4",
   "cover": "reels/diag_podshipnik.jpg",
@@ -129,7 +129,7 @@
  },
  {
   "id": "retro5_zil167",
-  "when": "2026-09-07 16:00",
+  "when": "2026-09-08 19:00",
   "done": false,
   "mp4": "reels/retro5_zil167.mp4",
   "cover": "reels/retro5_zil167.jpg",
@@ -137,7 +137,7 @@
  },
  {
   "id": "retro5_samodelki",
-  "when": "2026-09-07 19:00",
+  "when": "2026-09-08 21:30",
   "done": false,
   "mp4": "reels/retro5_samodelki.mp4",
   "cover": "reels/retro5_samodelki.jpg",
@@ -145,7 +145,7 @@
  },
  {
   "id": "news_5let",
-  "when": "2026-09-07 21:30",
+  "when": "2026-09-09 10:00",
   "done": false,
   "mp4": "reels/news_5let.mp4",
   "cover": "reels/news_5let.jpg",
@@ -153,7 +153,7 @@
  },
  {
   "id": "retro5_luaz967",
-  "when": "2026-09-08 10:00",
+  "when": "2026-09-09 13:00",
   "done": false,
   "mp4": "reels/retro5_luaz967.mp4",
   "cover": "reels/retro5_luaz967.jpg",
@@ -161,7 +161,7 @@
  },
  {
   "id": "retro5_tank300",
-  "when": "2026-09-08 13:00",
+  "when": "2026-09-09 16:00",
   "done": false,
   "mp4": "reels/retro5_tank300.mp4",
   "cover": "reels/retro5_tank300.jpg",
@@ -169,7 +169,7 @@
  },
  {
   "id": "news_diesel",
-  "when": "2026-09-08 16:00",
+  "when": "2026-09-09 19:00",
   "done": false,
   "mp4": "reels/news_diesel.mp4",
   "cover": "reels/news_diesel.jpg",
@@ -177,7 +177,7 @@
  },
  {
   "id": "retro5_azlk",
-  "when": "2026-09-08 19:00",
+  "when": "2026-09-09 21:30",
   "done": false,
   "mp4": "reels/retro5_azlk.mp4",
   "cover": "reels/retro5_azlk.jpg",
@@ -185,7 +185,7 @@
  },
  {
   "id": "retro6_sinyaya",
-  "when": "2026-09-08 21:30",
+  "when": "2026-09-10 10:00",
   "done": false,
   "mp4": "reels/retro6_sinyaya.mp4",
   "cover": "reels/retro6_sinyaya.jpg",
@@ -193,7 +193,7 @@
  },
  {
   "id": "diag_luzha",
-  "when": "2026-09-09 10:00",
+  "when": "2026-09-10 13:00",
   "done": false,
   "mp4": "reels/diag_luzha.mp4",
   "cover": "reels/diag_luzha.jpg",
@@ -201,7 +201,7 @@
  },
  {
   "id": "retro6_moskvich412",
-  "when": "2026-09-09 13:00",
+  "when": "2026-09-10 16:00",
   "done": false,
   "mp4": "reels/retro6_moskvich412.mp4",
   "cover": "reels/retro6_moskvich412.jpg",
@@ -209,7 +209,7 @@
  },
  {
   "id": "retro6_izh2715",
-  "when": "2026-09-09 16:00",
+  "when": "2026-09-10 19:00",
   "done": false,
   "mp4": "reels/retro6_izh2715.mp4",
   "cover": "reels/retro6_izh2715.jpg",
@@ -217,7 +217,7 @@
  },
  {
   "id": "rumor_kitay",
-  "when": "2026-09-09 19:00",
+  "when": "2026-09-10 21:30",
   "done": false,
   "mp4": "reels/rumor_kitay.mp4",
   "cover": "reels/rumor_kitay.jpg",
@@ -225,7 +225,7 @@
  },
  {
   "id": "retro6_kitaycy",
-  "when": "2026-09-09 21:30",
+  "when": "2026-09-11 10:00",
   "done": false,
   "mp4": "reels/retro6_kitaycy.mp4",
   "cover": "reels/retro6_kitaycy.jpg",
@@ -233,7 +233,7 @@
  },
  {
   "id": "retro6_zavodzil",
-  "when": "2026-09-10 10:00",
+  "when": "2026-09-11 13:00",
   "done": false,
   "mp4": "reels/retro6_zavodzil.mp4",
   "cover": "reels/retro6_zavodzil.jpg",
@@ -241,7 +241,7 @@
  },
  {
   "id": "news_niva",
-  "when": "2026-09-10 13:00",
+  "when": "2026-09-11 16:00",
   "done": false,
   "mp4": "reels/news_niva.mp4",
   "cover": "reels/news_niva.jpg",
@@ -249,7 +249,7 @@
  },
  {
   "id": "diag_troit",
-  "when": "2026-09-10 16:00",
+  "when": "2026-09-11 19:00",
   "done": false,
   "mp4": "reels/diag_troit.mp4",
   "cover": "reels/diag_troit.jpg",
@@ -257,7 +257,7 @@
  },
  {
   "id": "news_geely",
-  "when": "2026-09-10 19:00",
+  "when": "2026-09-11 21:30",
   "done": false,
   "mp4": "reels/news_geely.mp4",
   "cover": "reels/news_geely.jpg",
@@ -265,7 +265,7 @@
  },
  {
   "id": "news_santafe",
-  "when": "2026-09-10 21:30",
+  "when": "2026-09-12 10:00",
   "done": false,
   "mp4": "reels/news_santafe.mp4",
   "cover": "reels/news_santafe.jpg",
@@ -273,7 +273,7 @@
  },
  {
   "id": "top_avtozapusk",
-  "when": "2026-09-03 22:00",
+  "when": "2026-09-12 13:00",
   "done": false,
   "mp4": "reels/top_avtozapusk.mp4",
   "cover": "reels/top_avtozapusk.jpg",
@@ -281,7 +281,7 @@
  },
  {
   "id": "retro7_pobeda",
-  "when": "2026-09-11 10:00",
+  "when": "2026-09-12 16:00",
   "done": false,
   "mp4": "reels/retro7_pobeda.mp4",
   "cover": "reels/retro7_pobeda.jpg",
@@ -289,7 +289,7 @@
  },
  {
   "id": "trig_shina",
-  "when": "2026-09-11 13:00",
+  "when": "2026-09-12 19:00",
   "done": false,
   "mp4": "reels/trig_shina.mp4",
   "cover": "reels/trig_shina.jpg",
@@ -297,7 +297,7 @@
  },
  {
   "id": "news7_iskra",
-  "when": "2026-09-11 16:00",
+  "when": "2026-09-12 21:30",
   "done": false,
   "mp4": "reels/news7_iskra.mp4",
   "cover": "reels/news7_iskra.jpg",
@@ -305,7 +305,7 @@
  },
  {
   "id": "retro7_uaz469",
-  "when": "2026-09-11 19:00",
+  "when": "2026-09-13 10:00",
   "done": false,
   "mp4": "reels/retro7_uaz469.mp4",
   "cover": "reels/retro7_uaz469.jpg",
@@ -313,7 +313,7 @@
  },
  {
   "id": "news7_tang",
-  "when": "2026-09-11 21:30",
+  "when": "2026-09-13 13:00",
   "done": false,
   "mp4": "reels/news7_tang.mp4",
   "cover": "reels/news7_tang.jpg",
@@ -321,7 +321,7 @@
  },
  {
   "id": "trig_moyka",
-  "when": "2026-09-12 10:00",
+  "when": "2026-09-13 16:00",
   "done": false,
   "mp4": "reels/trig_moyka.mp4",
   "cover": "reels/trig_moyka.jpg",
@@ -329,7 +329,7 @@
  },
  {
   "id": "retro7_zaz968",
-  "when": "2026-09-12 13:00",
+  "when": "2026-09-13 19:00",
   "done": false,
   "mp4": "reels/retro7_zaz968.mp4",
   "cover": "reels/retro7_zaz968.jpg",
@@ -337,7 +337,7 @@
  },
  {
   "id": "news7_wey",
-  "when": "2026-09-12 16:00",
+  "when": "2026-09-13 21:30",
   "done": false,
   "mp4": "reels/news7_wey.mp4",
   "cover": "reels/news7_wey.jpg",
@@ -345,7 +345,7 @@
  },
  {
   "id": "trig_lampy",
-  "when": "2026-09-12 19:00",
+  "when": "2026-09-14 10:00",
   "done": false,
   "mp4": "reels/trig_lampy.mp4",
   "cover": "reels/trig_lampy.jpg",
@@ -353,7 +353,7 @@
  },
  {
   "id": "retro7_vaz2108",
-  "when": "2026-09-12 21:30",
+  "when": "2026-09-14 13:00",
   "done": false,
   "mp4": "reels/retro7_vaz2108.mp4",
   "cover": "reels/retro7_vaz2108.jpg",
@@ -361,7 +361,7 @@
  },
  {
   "id": "news7_patriot",
-  "when": "2026-09-13 10:00",
+  "when": "2026-09-14 16:00",
   "done": false,
   "mp4": "reels/news7_patriot.mp4",
   "cover": "reels/news7_patriot.jpg",
@@ -369,7 +369,7 @@
  },
  {
   "id": "retro7_oka",
-  "when": "2026-09-13 13:00",
+  "when": "2026-09-14 19:00",
   "done": false,
   "mp4": "reels/retro7_oka.mp4",
   "cover": "reels/retro7_oka.jpg",
@@ -377,7 +377,7 @@
  },
  {
   "id": "trig_akb",
-  "when": "2026-09-13 16:00",
+  "when": "2026-09-14 21:30",
   "done": false,
   "mp4": "reels/trig_akb.mp4",
   "cover": "reels/trig_akb.jpg",
@@ -385,7 +385,7 @@
  },
  {
   "id": "trig_benzin",
-  "when": "2026-09-13 19:00",
+  "when": "2026-09-15 10:00",
   "done": false,
   "mp4": "reels/trig_benzin.mp4",
   "cover": "reels/trig_benzin.jpg",
@@ -393,7 +393,7 @@
  },
  {
   "id": "news7_solaris",
-  "when": "2026-09-13 21:30",
+  "when": "2026-09-15 13:00",
   "done": false,
   "mp4": "reels/news7_solaris.mp4",
   "cover": "reels/news7_solaris.jpg",
