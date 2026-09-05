@@ -59,15 +59,17 @@ def wait_finished(cid):
         time.sleep(5)
     raise RuntimeError("timeout: контейнер не FINISHED")
 
+MEDIA_BASE = os.environ.get("MEDIA_BASE_URL", "").rstrip("/")
+
+def media_url(rel):
+    """Публичная ссылка на файл в репозитории через CDN (jsDelivr), content-type video/mp4."""
+    return f"{MEDIA_BASE}/{rel}"
+
 def publish(item):
-    mp4 = os.path.join(ROOT, item["mp4"])
-    if not os.path.exists(mp4):
+    if not os.path.exists(os.path.join(ROOT, item["mp4"])):
         raise RuntimeError(f"нет файла {item['mp4']}")
-    video_url = host_public(mp4)
-    cover_url = None
-    cov = item.get("cover")
-    if cov and os.path.exists(os.path.join(ROOT, cov)):
-        cover_url = host_public(os.path.join(ROOT, cov))
+    video_url = media_url(item["mp4"])
+    cover_url = media_url(item["cover"]) if item.get("cover") else None
     params = {"media_type": "REELS", "video_url": video_url,
               "caption": item.get("caption", ""), "share_to_feed": "true"}
     if cover_url:
